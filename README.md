@@ -1,0 +1,2 @@
+This repository showcase a simple example of how changes can be grouped together under a single backend API call.
+It only provides the required code for this concurrency pattern without actually implementing the final http call.
